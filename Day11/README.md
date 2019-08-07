@@ -19,6 +19,7 @@ Roman numbers are represented by below characters:
 | 1000 | M |
 
 Some other special cases
+
 | Number | Roman |
 |:---:|:---:|
 | 4 | IV |
