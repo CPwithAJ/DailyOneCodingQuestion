@@ -1,4 +1,4 @@
-# Day 11 Question
+# Day 12 Question
 
 Zig-zag conversion: Given a string, and number of rows, write the string in zigzag pattern.
 
